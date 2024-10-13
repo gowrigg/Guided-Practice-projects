@@ -1,4 +1,4 @@
-# Guided-Practice-projects
+# Guided-projects
 
 Core: Cofee_brand_expanding_Analysis
 Tables :
