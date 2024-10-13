@@ -1,2 +1,29 @@
 # Guided-Practice-projects
-Cofee_brand_expanding_Analysis
+
+Core: Cofee_brand_expanding_Analysis
+Tables :
+1. City table
+2. Sales table
+3. Product table
+4. Customer table
+
+We Used Here MYSQL SELECT, JOINS, SUBQUERY'S, CTE, CLAUSE'S AND AGGREGATION FUNCTIONS.
+
+
+## THE KEY QUESTIONS TO ANALYSE THIS DATA
+
+1. TOTAL REVENUE
+2. UNIT SOLD PER PRODUCT
+3. AVERAGE SALES AMOUNT
+4. CITY POPULATION AND COFFEE CONSUMERS
+6. TOP SELLING PRODUCTS
+7. UNIQUE CUSTOMERS
+8. AVERAGE SALE AND RENT
+9. SALES GROWTH
+10. TOP 3 CITIES BY SALES
+
+
+
+
+
+
